@@ -1,0 +1,2 @@
+This project had problem with icons : 
+Resolved: https://stackoverflow.com/questions/34933350/how-to-link-to-a-woff-font-file-in-html-document
